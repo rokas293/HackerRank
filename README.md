@@ -9,3 +9,4 @@ HackerRank Problems
 |3|[Compare The Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/) | [Python](https://github.com/rokas293/HackerRank/tree/main/Algorithms/Python/Compare_The_Triplets.py)|Easy|
 |4|[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/) | [Python](https://github.com/rokas293/HackerRank/tree/main/Algorithms/Python/A_Very_Big_Sum.py)|Easy|
 |5|[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/) | [Python](https://github.com/rokas293/HackerRank/tree/main/Algorithms/Python/Diagonal_Difference.py)|Easy|
+|6|[Staircase](https://www.hackerrank.com/challenges/staircase/) | [Python](https://github.com/rokas293/HackerRank/tree/main/Algorithms/Python/Staircase.py)|Easy|
