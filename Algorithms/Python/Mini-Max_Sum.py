@@ -1,4 +1,4 @@
-# Source : https://www.hackerrank.com/challenges/a-very-big-sum/
+# Source : https://www.hackerrank.com/challenges/mini-max-sum/
 # Author : Rokas Mitka
 # Date   : 2/7/2026
 
