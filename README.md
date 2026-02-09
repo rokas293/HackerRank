@@ -11,3 +11,4 @@ HackerRank Problems
 |5|[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/) | [Python](https://github.com/rokas293/HackerRank/tree/main/Algorithms/Python/Diagonal_Difference.py)|Easy|
 |6|[Staircase](https://www.hackerrank.com/challenges/staircase/) | [Python](https://github.com/rokas293/HackerRank/tree/main/Algorithms/Python/Staircase.py)|Easy|
 |7|[Staircase](https://www.hackerrank.com/challenges/mini-max-sum/) | [Python](https://github.com/rokas293/HackerRank/tree/main/Algorithms/Python/Mini-Max_Sum.py)|Easy|
+|8|[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/) | [Python](https://github.com/rokas293/HackerRank/tree/main/Algorithms/Python/Birthday_Cake_Candles.py)|Easy|
